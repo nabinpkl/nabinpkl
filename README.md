@@ -25,15 +25,38 @@
 
 ### 🔧 Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Rust-%23CE422B.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Rust-%23CE422B.svg?style=for-the-badge&logo=rust&logoColor=white" width="110" /><br/><br/>
+      <b>Rust</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="65" height="65" /><br/>
+      <b>TypeScript</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="65" height="65" /><br/>
+      <b>React</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" width="110" /><br/><br/>
+      <b>Solidity</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" width="65" height="65" /><br/>
+      <b>Node.js</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="65" height="65" /><br/>
+      <b>Git</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="65" height="65" /><br/>
+      <b>Docker</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
