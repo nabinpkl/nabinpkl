@@ -63,7 +63,6 @@
 ### ⛓️ Focus Areas
 
 - **AI × Blockchain** — agents, oracles, on-chain inference
-- **DeFi Protocols** — AMMs, lending, yield strategies in Solidity & Rust (Anchor/Solana)
 - **Full-Stack dApps** — React frontends + TypeScript APIs + smart contract backends
 - **Rust Systems** — CLI tools, high-performance services, WebAssembly modules
 
