@@ -60,8 +60,8 @@
 
 ### ⛓️ Focus Areas
 
-- **AI × Blockchain** — agents, oracles, on-chain inference
-- **Full-Stack dApps** — React frontends + TypeScript APIs + smart contract backends
+- **AI × Blockchain x SaaS** — agents, oracles, Web apps, distributed systems handling
+- **Full-Stack dApps** — React frontends + TypeScript APIs + Kafka + Temporal + Distributed Algorithms
 - **Rust Systems** — CLI tools, high-performance services, WebAssembly modules
 
 ---
