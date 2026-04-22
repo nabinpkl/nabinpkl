@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Nabin</h1>
-<h3 align="center">FullStack Engineer · AI × Web3/Blockchain</h3>
+<h3 align="center">FullStack Engineer · Products at AI × Web3/Blockchain x SaaS</h3>
 
 <p align="center">
   <em>Building at the intersection of Artificial Intelligence and decentralized systems</em>
