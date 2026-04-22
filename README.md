@@ -7,17 +7,15 @@
 
 ---
 
-🚀 &nbsp;FullStack Engineer passionate about shipping products where **AI meets Web3 & Blockchain**
+🚀 &nbsp;FullStack Engineer passionate about shipping products end to end without security compromise.
 
-🔗 &nbsp;Crafting smart contracts, on-chain protocols, and AI-powered dApps end-to-end
+🦀 &nbsp;Systems programming in **Rust** — performant, safe, and built for scale.
 
-🦀 &nbsp;Systems programming in **Rust** — performant, safe, and built for scale
+🧠 &nbsp;Integrating LLMs, agents, and ML pipelines into real-world blockchain products and software products.
 
-🧠 &nbsp;Integrating LLMs, agents, and ML pipelines into real-world blockchain products
+🌐 &nbsp;Frontend with **React** · Backend in **TypeScript** / Node.js / Python
 
-🌐 &nbsp;Frontend with **React** · Backend in **TypeScript** / Node.js · On-chain with **Solidity**
-
-🛠️ &nbsp;Open to collaboration on innovative DeFi, AI-agent, and Web3 infra projects
+🛠️ &nbsp;Open to collaboration on innovative SaaS, AI-agent, and Web3 projects
 
 💬 &nbsp;Let's talk Rust, Solidity, zero-knowledge proofs, AI tooling, or anything in between
 
