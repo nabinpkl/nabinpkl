@@ -17,7 +17,7 @@
 
 🛠️ &nbsp;Open to collaboration on innovative SaaS, AI-agent, and Web3 projects
 
-💬 &nbsp;Let's talk Rust, Solidity, zero-knowledge proofs, AI tooling, or anything in between
+💬 &nbsp;Let's talk Product Desgin, Rust, zero-knowledge proofs, AI tooling, or anything in between
 
 ---
 
