@@ -9,8 +9,6 @@
 
 🚀 &nbsp;FullStack Engineer passionate about shipping products end to end without security compromise.
 
-🦀 &nbsp;Systems programming in **Rust** performant, safe, and built for scale.
-
 🧠 &nbsp;Integrating LLMs, agents, and ML pipelines into real-world blockchain products and software products.
 
 🌐 &nbsp;Frontend with **React** · Backend in **TypeScript** / Node.js / Python
