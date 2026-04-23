@@ -38,8 +38,8 @@
       <b>React</b>
     </td>
     <td align="center" width="120">
-      <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" width="110" /><br/><br/>
-      <b>Solidity</b>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="65" height="65" /><br/>
+      <b>Python</b>
     </td>
     <td align="center" width="120">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" width="65" height="65" /><br/>
