@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Nabin</h1>
-<h3 align="center">FullStack Engineer · Products at AI or/and Distributed Systems or/and Web 3</h3>
+<h3 align="center">FullStack Engineer · Products at AI or/and Distributed Systems.</h3>
 
 <p align="center">
-  <em>Building at the intersection of Artificial Intelligence, decentralized systems and user facing products</em>
+  <em>Building at the intersection of Artificial Intelligence, distributed systems and user facing products.</em>
 </p>
 
 ---
@@ -13,7 +13,7 @@
 
 🌐 &nbsp;Frontend with **React** · Backend in **TypeScript** / Node.js / Python
 
-🛠️ &nbsp;Open to collaboration on innovative SaaS, AI-agent, and Web3 projects
+🛠️ &nbsp;Open to collaboration on innovative SaaS, AI-agent, and distributed systems projects.
 
 💬 &nbsp;Let's talk Product Desgin, Rust, zero-knowledge proofs, AI tooling, or anything in between.
 
@@ -58,8 +58,8 @@
 
 ### ⛓️ Focus Areas
 
-- **AI × Blockchain x SaaS** — agents, oracles, Web apps, distributed systems handling
-- **Full-Stack dApps** — React frontends + TypeScript APIs + Kafka + Temporal + Distributed Algorithms
+- **AI × Distirbuted Systems** — agents, oracles, Web apps, distributed systems handling
+- **Full-Stack Apps** — React frontends + TypeScript APIs + Kafka + Temporal + Distributed Algorithms
 - **Rust Systems** — CLI tools, high-performance services, WebAssembly modules
 
 ---
